@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/monday-hws/static/css/main.7924129f.css",
-    "main.js": "/monday-hws/static/js/main.ffbf5505.js",
+    "main.js": "/monday-hws/static/js/main.b095a579.js",
     "static/js/787.177e23c2.chunk.js": "/monday-hws/static/js/787.177e23c2.chunk.js",
     "index.html": "/monday-hws/index.html",
     "main.7924129f.css.map": "/monday-hws/static/css/main.7924129f.css.map",
-    "main.ffbf5505.js.map": "/monday-hws/static/js/main.ffbf5505.js.map",
+    "main.b095a579.js.map": "/monday-hws/static/js/main.b095a579.js.map",
     "787.177e23c2.chunk.js.map": "/monday-hws/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7924129f.css",
-    "static/js/main.ffbf5505.js"
+    "static/js/main.b095a579.js"
   ]
 }
